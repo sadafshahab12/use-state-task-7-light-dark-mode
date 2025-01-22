@@ -1,6 +1,4 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
 import "./App.css";
 
 function App() {
@@ -14,7 +12,7 @@ function App() {
       <div
         className={`${
           mode ? "bg-black text-white" : "bg-white text-black"
-        } h-screen flex flex-col justify-center items-center gap-5`}
+        } h-screen flex flex-col justify-center items-center gap-5 transition-all ease-in duration-300`}
       >
         <h1 className="text-3xl font-bold">Light/Dark Mode</h1>
         <button

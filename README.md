@@ -1,8 +1,19 @@
-# React + Vite
+🌗 Light/Dark Mode Toggle App
+A simple Light/Dark Mode Toggle application built with React.js and styled using Tailwind CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔹 Features:
+Theme Switching: Toggle between light and dark modes dynamically.
+Responsive Design: Works perfectly on all screen sizes.
+Clean UI: Minimalistic and visually appealing design.
+🔹 Tech Stack:
+React.js: For creating a dynamic and interactive user experience.
+Tailwind CSS: For responsive and aesthetic styling.
 
-Currently, two official plugins are available:
+📋 Usage:
+Launch the app to see the default Light Mode.
+Click the Dark Mode button to toggle the theme.
+Enjoy a seamless transition between light and dark modes!
+🔗 Contributions:
+Feel free to fork the repository, add features, or suggest improvements. Let’s make this even better together! 🚀
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Happy coding! 🎉
